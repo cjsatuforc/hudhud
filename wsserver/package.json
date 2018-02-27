@@ -1,0 +1,11 @@
+{
+  "name": "hudhudserver",
+  "version": "0.0.1",
+  "description": "server intermediary communication for hudhud system",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "toni tegar sahidi",
+  "license": "Apache-2.0"
+}
