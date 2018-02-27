@@ -1,0 +1,12 @@
+<?php
+
+$SITE_NAME = "HUDHUD CONTROLLER";
+$APPSNAME = "HUDHUD";
+
+$SERVER_ADDRESS = "";
+$SERVER_USERNAME = "";
+$SERVER_PASSWORD = "";
+
+
+
+ ?>
